@@ -1,2 +1,4 @@
 # Titanic_Machine_Learning
-Primeiro modelo de ML
+
+Projeto produzido para verificação de predições no kaggle: https://www.kaggle.com/c/titanic/submissions
+
